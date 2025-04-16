@@ -7,7 +7,7 @@
 </p>
 
 <picture>
-<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/AlexGtier/AlexGtier/output/github-contribution-grid-snake.svg" /> 
 </picture>
 </p>
 
